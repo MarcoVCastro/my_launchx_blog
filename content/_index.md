@@ -9,9 +9,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis espectativas y metas a alcanzar con relación a la programación son:
 
-- Continuar con mis aprendisaje y profundisar en mis conocimientos de front-end.
+- Continuar con mi aprendizaje y profundizar en mis conocimientos de front-end.
 - aprender Git y Github.
-- Aprender a desarrollar aplicaciones backend.
+- Aprender a desarrollar aplicaciones back-end.
 - Profundizar en mis conocimientos de Java Script.
 - Sentar las bases para poder emprender una carrera como desarrollador.
 
