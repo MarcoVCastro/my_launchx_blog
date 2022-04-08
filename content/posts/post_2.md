@@ -1,6 +1,6 @@
 ---
 title: "La importancia del software en la actualidad"
-date: 2022-03-01
+date: 2022-04-08
 description: 'En este artículo comento porqué considero que el software es muy importante en su uso día a día'
 ---
 
