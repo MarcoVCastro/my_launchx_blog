@@ -2,14 +2,14 @@
 title: 'Acerca de mí'
 menu:
   main:
-    name: "AboutMe"
+    name: "Acerca de Mí"
 ---
 
-## Who am I
+## Quien Soy...
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Soy una persona que le gusta aprender, en muchas cosas autodidacta 😉.
+> Soy una persona que le gusta aprender, en muchas cosas autodidacta 😉
 
 Me llamo **Marco Vinicio Castro**, me gusta mucho adquirir nuevos conocimientos, esto me 
 ha permitido incursionar en diferentes áreas como diseño gráfico, video estereoscópico y animación y modelado 3D.
