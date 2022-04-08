@@ -19,4 +19,3 @@ Cualidades importantes que considero se deben tener son:
 - Deseo de seguir aprendiendo constantemente.
 
 Esto es lo que considero a mi parecer lo que debe caracterizar aun profesional del software.
-
