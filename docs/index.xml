@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Marco Vinicio Castro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://marcovcastro.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcovcastro.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi experiencia como tripulante de LaunchX</title>
+      <link>https://marcovcastro.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcovcastro.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Al inicio tenía pocos conocimientos de la programación, pero la forma de explicar sencilla y fácil de entender me gustaron mucho, esto me animó a seguir aprendiendo.
+También las prácticas me permiten aplicar los conocimientos obtenidos. Admito que algunas cosas las tuve que investigar ya que las desconocía, pero es bueno ya que nos enseña a buscar soluciones a problemas que nos surjan al programar.
+Actualmente sigo en el viaje con back-end y repasando algunas cosas de front-end.</description>
+    </item>
+    
     <item>
       <title>La cultura en el desarrollo de software.</title>
       <link>https://marcovcastro.github.io/my_launchx_blog/posts/intro/</link>
