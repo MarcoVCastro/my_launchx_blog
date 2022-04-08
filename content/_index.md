@@ -1,6 +1,6 @@
 ---
 title: Launch X Bitácora de viaje
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: Blog donde compartiré temas interesantes sobre desarrollo de software y algo más.
 ---
 
 Hola ✌️ soy el explorer **Marco Vinicio Castro** y este es mi blog personal donde compartiré mis aventuras de Launch X.
